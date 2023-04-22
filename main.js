@@ -5,7 +5,7 @@ ZoomMtg.i18n.load('en-US')
 ZoomMtg.i18n.reload('en-US')
 
 let signatureEndpoint = 'https://new-test-zoom.herokuapp.com/'
-let sdkKey = 'FO56Q36gRRG8xGiRIReL_Q'
+let sdkKey = 'yep'
 let meetingNumber = document.getElementById('meetingNumber')
 let role = 0
 let userName = ''
